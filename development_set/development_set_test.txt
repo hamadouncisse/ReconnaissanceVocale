@@ -1,0 +1,17 @@
+sekou_1\audio4.wav
+sekou_2\audio4.wav
+hamadoun_1\audio4.wav
+hamadoun_1\audio5.wav
+hamadoun_1\audio6.wav
+hamadoun_2\audio4.wav
+djibson_1\audio4.wav
+djibson_2\audio4.wav
+hassan_1\audio4.wav
+hassan_2\audio4.wav
+namory_1\audio4.wav
+namory_2\audio4.wav
+test_1\audio4.wav
+test_2\audio4.wav
+ibh_1\audio4.wav
+ibh_2\audio4.wav
+makaveli_1\audio4.wav

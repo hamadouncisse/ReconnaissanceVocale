@@ -1,0 +1,12 @@
+sekou_1\audio1.wav
+sekou_1\audio2.wav
+sekou_1\audio3.wav
+sekou_2\audio1.wav
+sekou_2\audio2.wav
+sekou_2\audio3.wav
+hamadoun_1\audio1.wav
+hamadoun_1\audio2.wav
+hamadoun_1\audio3.wav
+hamadoun_2\audio1.wav
+hamadoun_2\audio2.wav
+hamadoun_2\audio3.wav
